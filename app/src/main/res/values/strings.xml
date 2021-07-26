@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BFAA_Submission3</string>
+
+    <string name="pengguna_tidak_ditemukan">User Not Found</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <string name="hint_search">Input Username</string>
+    <string name="language">Change Language</string>
+    <string name="favorite">User Favorite</string>
+    <string name="reminder">Reminder</string>
+    <string name="reminderText">Reminder at 09.00 Morning</string>
+</resources>

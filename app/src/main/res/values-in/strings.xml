@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BFAA_Submission3</string>
+
+    <string name="pengguna_tidak_ditemukan">Pengguna Tidak Ditemukan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tab_text_1">Pengikut</string>
+    <string name="tab_text_2">Mengikuti</string>
+    <string name="hint_search">Masukan Username</string>
+    <string name="language">Ganti Bahasa</string>
+    <string name="favorite">Favorit User</string>
+    <string name="reminder">Pengingat</string>
+    <string name="reminderText">Pengingat pada saat 09.00 Pagi</string>
+</resources>
